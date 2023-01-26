@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
+
+*{
+    margin:0px;
+    padding:0px;
+    
+}
+
+#card{
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-inline-start: 20px;
+    color: white;
+    width: 100%;
+  
+
+
+}
+
+.titulo{
+    font-family: 'Kaushan Script', cursive;
+    color: white;
+    font-size: 35px;
+}
+
+.badge {
+    font-size: 12px;
+    border-radius:150px;
+    width:20px;
+    height:20px
+  }
+
+.avatar{
+        width:200px;
+        height:200px;
+        border: 10px solid #003158;
+        border-radius:150px;
+        margin:auto;
+        margin-top: 20px;
+        display: block;
+        
+    
+}
+
+.icono{
+    width: 30px;
+    display: block;
+    margin: auto;
+}
+
+
+
+.input{
+    width:40%;
+  
+
+}
+
+.row{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.header{
+    background-color: #003158;
+    margin-bottom:20px ;
+}
